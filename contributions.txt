@@ -1,0 +1,11 @@
+Chirobocea Mihail Bogdan: 
+	- Data preparation
+	- Emotion data encoding (GritLM)
+	- Emotion model training (architecture and hyperparameter tuning)
+
+Costea Razvan-George
+	- Depression data encoding (GritLM)
+	- Depression data embeddings visualization (t-SNE)
+	- Predicting emotions from depressive text
+	- Depression fine-tuning
+	
